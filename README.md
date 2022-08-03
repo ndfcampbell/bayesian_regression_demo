@@ -33,4 +33,4 @@ Copyright (C) 2022  Neill D. F. Campbell based on the Bayesian Machine Learning 
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
-**Additional Notice:** This material is to be used for non-commercial teaching purposes only and not for use in production or by any profit-making venture.
+**Additional Notice:** This material is to be used for non-commercial teaching purposes only and not for use in production nor by any profit-making venture.
